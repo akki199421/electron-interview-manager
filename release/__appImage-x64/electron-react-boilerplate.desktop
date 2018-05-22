@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ElectronReact
+Comment=Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=electron-react-boilerplate
+X-AppImage-Version=1.0.0
+X-AppImage-BuildId=de53a2b0-4e0b-11a8-38c4-671378e7a17d
+Categories=Development;
